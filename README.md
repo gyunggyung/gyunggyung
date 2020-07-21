@@ -15,15 +15,15 @@ I have so many jobs. Maybe more.
 
 [![gyunggyung's github stats](https://github-readme-stats.vercel.app/api?username=gyunggyung&show_icons=true)](https://github.com/gyunggyung/github-readme-stats)
 
+<!--
 
 <details>
   <summary> <b> [Github Stats]  </b> <i>(:point_left: Click)</i> </summary>
   
 [![gyunggyung's github stats](https://github-readme-stats.vercel.app/api?username=gyunggyung&show_icons=true)](https://github.com/gyunggyung/github-readme-stats)
   
-  
 </details>
-<!--
+
 **gyunggyung/gyunggyung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
