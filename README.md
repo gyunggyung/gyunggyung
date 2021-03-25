@@ -7,9 +7,9 @@
 [![E-book Badge](https://img.shields.io/badge/-Ebook-green?style=flat-square)](https://smartstore.naver.com/gyunggyung/products/4848817970)
 [![Tistory Badge](https://img.shields.io/badge/-Tistory-orange?style=flat-square&link=http://maengdev.tistory.com/)](https://hipgyung.tistory.com/)
 
-- I'm doing various studies and work. :books:
-- I'm designing my life by doing everything I want to do. :sparkles:
-- I have so many jobs. Maybe more. :art:
+- I'm doing various studies and work.
+- I'm designing my life by doing everything I want to do.
+- I have so many jobs. Maybe more.
 
 [![gyunggyung's github stats](https://github-readme-stats.vercel.app/api?username=gyunggyung&show_icons=true)](https://github.com/gyunggyung/github-readme-stats)
 
