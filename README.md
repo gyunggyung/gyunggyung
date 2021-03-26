@@ -1,7 +1,7 @@
 ## 👋 I'm gyunggyung 👋
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yunho0130/)](https://www.linkedin.com/in/kiwoong-yeom-9908b21b1) 
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=http://git-awards.com/users/gyunggyung)](http://git-awards.com/users/gyunggyung)
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=http://ww.rankedin.kr/user/gyunggyung)](http://ww.rankedin.kr/user/gyunggyung)
 [![Youtube Badge](https://img.shields.io/badge/Youtube-ff0000?style=flat-square&logo=youtube&link=https://www.youtube.com/c/myh0130)](https://www.youtube.com/channel/UCakfMU03ImeiRukrloMrkKA?view_as=subscriber) 
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-dd2a7b?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/yunho.m88/)](https://www.instagram.com/gyunggyungs/) 
 [![E-book Badge](https://img.shields.io/badge/-Ebook-green?style=flat-square)](https://smartstore.naver.com/gyunggyung/products/4848817970)
