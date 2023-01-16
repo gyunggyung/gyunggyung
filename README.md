@@ -9,5 +9,3 @@
 - I'm doing various studies and work.
 - I'm designing my life by doing everything I want to do.
 - I have so many jobs. Maybe more.
-
-[![gyunggyung's github stats](https://github-readme-stats.vercel.app/api?username=gyunggyung&&count_private=true)](https://github.com/gyunggyung/github-readme-stats)
