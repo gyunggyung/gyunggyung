@@ -1,4 +1,4 @@
-## 👋 I'm gyunggyung 👋
+# 👋
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yunho0130/)](https://www.linkedin.com/in/kiwoong-yeom-9908b21b1) 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=http://ww.rankedin.kr/user/gyunggyung)](http://ww.rankedin.kr/user/gyunggyung)
@@ -6,6 +6,6 @@
 [![E-book Badge](https://img.shields.io/badge/-Ebook-green?style=flat-square)](https://smartstore.naver.com/gyunggyung/products/4848817970)
 [![Tistory Badge](https://img.shields.io/badge/-Tistory-orange?style=flat-square&link=http://maengdev.tistory.com/)](https://hipgyung.tistory.com/)
 
-- I'm doing various studies and work.
-- I'm designing my life by doing everything I want to do.
-- I have so many jobs. Maybe more.
+- I'm studying and working a lot.
+- I'm designing my life, doing all the things I want to do.
+- I have so many jobs, maybe more.
