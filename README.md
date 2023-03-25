@@ -6,6 +6,7 @@
 
 Advocating for accessible, transparent, and collaborative AGI development for everyone. AI and NLP enthusiast passionate about developing real open AGI. I strive to create innovative solutions for the betterment of society. My interests include Lightweight and Efficient models, and personal AGI development.
 
+https://github.com/gyunggyung
 newhiwoong@gmail.com
 
 ## Professional Experience:
@@ -32,7 +33,7 @@ newhiwoong@gmail.com
 ### KoGPT2-FineTuning Project Leader | [GitHub ](https://github.com/gyunggyung/KoGPT2-FineTuning)
 -	Coordinated the development and fine-tuning of KoGPT-2, a Korean language model, for various applications, including learning Korean lyrics data.
 
-## Skills and Languages:
+## Skills:
 - MLLM
 - AGI
 - Distillation
