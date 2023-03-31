@@ -9,13 +9,6 @@ Advocating for accessible, transparent, and collaborative AGI development for ev
 https://github.com/gyunggyung
 newhiwoong@gmail.com
 
-## Professional Experience:
-### Personalized AGI Society | Founder, Chairman of the Board | 2023.03.28 -
--	Making personal AGI available to everyone.
-
-### ForUS.AI | Founder, NLP Engineer | 2020.04.01 - 2022.02.15
--	Implemented a service that creates content (lyrics) matching user psychology (MBTI) by organizing a team of 20 people.
-
 ## Leadership and Teamwork Experience:
 ### LiOn Public Project Contributor | [GitHub](https://github.com/gyunggyung/LiOn)
 -	Worked on the LiOn project, which aims to connect various data sources to expand expertise in natural language processing.
