@@ -9,7 +9,7 @@ Advocating for accessible, transparent, and collaborative AGI development for ev
 https://github.com/gyunggyung
 newhiwoong@gmail.com
 
-## Leadership and Teamwork Experience:
+## Experience:
 ### LiOn Public Project Contributor | [GitHub](https://github.com/gyunggyung/LiOn)
 -	Worked on the LiOn project, which aims to connect various data sources to expand expertise in natural language processing.
 -	Collaborated with team members to develop and refine algorithms and techniques for improved language understanding.
