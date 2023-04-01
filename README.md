@@ -2,6 +2,7 @@
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/gyunggyung)](https://github.com/gyunggyung)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yunho0130/)](https://www.linkedin.com/in/kiwoong-yeom-9908b21b1) 
+[![Book Badge](https://img.shields.io/badge/-Ebook-green?style=flat-square&link=http://maengdev.blog.com/)](https://smartstore.naver.com/gyunggyung/products/8297522009?fbclid=IwAR2PcqkSgWz2CHZOHdGQrvbegUF9pWDLLDNWIcVuZzD5iqpKRkahHRNt3RY)
 [![Blog Badge](https://img.shields.io/badge/-Blog-orange?style=flat-square&link=http://maengdev.blog.com/)](https://hipgyung.tistory.com/)
 
 Advocating for accessible, transparent, and collaborative AGI development for everyone. AI and NLP enthusiast passionate about developing real open AGI. I strive to create innovative solutions for the betterment of society. My interests include Lightweight and Efficient models, and personal AGI development.
