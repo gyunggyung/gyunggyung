@@ -15,12 +15,6 @@ newhiwoong@gmail.com
 -	Worked on the LiOn project, which aims to connect various data sources to expand expertise in natural language processing.
 -	Collaborated with team members to develop and refine algorithms and techniques for improved language understanding.
 
-### KoAlpaca.cpp Collaborator | [GitHub](https://github.com/gyunggyung/KoAlpaca.cpp)
--	Contributed to the development of KoAlpaca, a locally run Instruction-Tuned Chat-Style LLM in C++.
-
-### GPT.asm Project Creator | [GitHub](https://github.com/gyunggyung/GPT.asm)
--	Developed an assembly language example for GPT (Generative Pre-trained Transformer) models.
-
 ### DistilKoBiLSTM Project Contributor | [GitHub](https://github.com/gyunggyung/DistilKoBiLSTM)
 - Developed DistilKoBiLSTM to extract task-specific knowledge from teacher models and convert them to BiLSTM.
 
