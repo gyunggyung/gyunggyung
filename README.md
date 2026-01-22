@@ -13,7 +13,7 @@
 - 🇰🇷 **[LFM2-KoEn-Tuning](https://github.com/gyunggyung/LFM2-KoEn-Tuning)** ![Stars](https://img.shields.io/github/stars/gyunggyung/LFM2-KoEn-Tuning?style=social)
 - 🗃️ **[LLM-KO-Datasets](https://github.com/gyunggyung/LLM-Ko-Datasets)** ![Stars](https://img.shields.io/github/stars/gyunggyung/LLM-Ko-Datasets?style=social)
 
-## 🧠 Deep Learning & NLP
+## 🧠 Deep Learning & LLM
 - **[DistilKoBiLSTM](https://github.com/gyunggyung/DistilKoBiLSTM)** ![Stars](https://img.shields.io/github/stars/gyunggyung/DistilKoBiLSTM?style=social)
 - **[KoGPT2-FineTuning](https://github.com/gyunggyung/KoGPT2-FineTuning)** ![Stars](https://img.shields.io/github/stars/gyunggyung/KoGPT2-FineTuning?style=social)
 - **[LiOnConnect](https://github.com/gyunggyung/LiOnConnect)** ![Stars](https://img.shields.io/github/stars/gyunggyung/LiOnConnect?style=social)
