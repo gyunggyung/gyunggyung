@@ -7,6 +7,7 @@
 ## 🚀 Recent & Featured
 > **LLM, AI Agent & Translation**
 
+- 🤖 **[Tiny MoA](https://github.com/gyunggyung/Tiny-MoA)** ![Stars](https://img.shields.io/github/stars/gyunggyung/Tiny-MoA?style=social)
 - 🐧 **[Korean Linux Colab](https://github.com/gyunggyung/korean-linux-colab)** ![Stars](https://img.shields.io/github/stars/gyunggyung/korean-linux-colab?style=social)
 - 🎓 **[LFM-Scholar](https://github.com/gyunggyung/LFM-Scholar)** ![Stars](https://img.shields.io/github/stars/gyunggyung/LFM-Scholar?style=social)
 - 📄 **[docling-translate](https://github.com/gyunggyung/docling-translate)** ![Stars](https://img.shields.io/github/stars/gyunggyung/docling-translate?style=social)
