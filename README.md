@@ -7,6 +7,7 @@
 ## 🚀 Recent & Featured
 > **LLM, AI Agent & Translation**
 
+- 🧠 **[Gemini-Claw](https://github.com/gyunggyung/Gemini-Claw)** ![Stars](https://img.shields.io/github/stars/gyunggyung/Gemini-Claw?style=social)
 - ⚡ **[Agent.cpp](https://github.com/gyunggyung/Agent.cpp)** ![Stars](https://img.shields.io/github/stars/gyunggyung/Agent.cpp?style=social)
 - 🤖 **[Tiny MoA](https://github.com/gyunggyung/Tiny-MoA)** ![Stars](https://img.shields.io/github/stars/gyunggyung/Tiny-MoA?style=social)
 - 🐧 **[Korean Linux Colab](https://github.com/gyunggyung/korean-linux-colab)** ![Stars](https://img.shields.io/github/stars/gyunggyung/korean-linux-colab?style=social)
