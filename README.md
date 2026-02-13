@@ -7,6 +7,7 @@
 ## 🚀 Recent & Featured
 > **LLM, AI Agent & Translation**
 
+- 🌟 **[AGI Papers](https://github.com/gyunggyung/AGI-Papers)** ![Stars](https://img.shields.io/github/stars/gyunggyung/AGI-Papers?style=social)
 - 🧠 **[Gemini-Claw](https://github.com/gyunggyung/Gemini-Claw)** ![Stars](https://img.shields.io/github/stars/gyunggyung/Gemini-Claw?style=social)
 - ⚡ **[Agent.cpp](https://github.com/gyunggyung/Agent.cpp)** ![Stars](https://img.shields.io/github/stars/gyunggyung/Agent.cpp?style=social)
 - 🤖 **[Tiny MoA](https://github.com/gyunggyung/Tiny-MoA)** ![Stars](https://img.shields.io/github/stars/gyunggyung/Tiny-MoA?style=social)
@@ -20,7 +21,6 @@
 - **[DistilKoBiLSTM](https://github.com/gyunggyung/DistilKoBiLSTM)** ![Stars](https://img.shields.io/github/stars/gyunggyung/DistilKoBiLSTM?style=social)
 - **[KoGPT2-FineTuning](https://github.com/gyunggyung/KoGPT2-FineTuning)** ![Stars](https://img.shields.io/github/stars/gyunggyung/KoGPT2-FineTuning?style=social)
 - **[LiOnConnect](https://github.com/gyunggyung/LiOnConnect)** ![Stars](https://img.shields.io/github/stars/gyunggyung/LiOnConnect?style=social)
-- **[AGI Papers](https://github.com/gyunggyung/AGI-Papers)** ![Stars](https://img.shields.io/github/stars/gyunggyung/AGI-Papers?style=social)
 - **[Vision-Transformer-Papers](https://github.com/gyunggyung/Vision-Transformer-Papers)** ![Stars](https://img.shields.io/github/stars/gyunggyung/Vision-Transformer-Papers?style=social)
 - **[MLLMArxivTalk](https://github.com/gyunggyung/MLLMArxivTalk)** ![Stars](https://img.shields.io/github/stars/gyunggyung/MLLMArxivTalk?style=social)
 
