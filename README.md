@@ -7,6 +7,7 @@
 ## 🚀 Recent & Featured
 > **LLM, AI Agent & Translation**
 
+- 🐱 **[Open-Yaongi](https://github.com/gyunggyung/Open-Yaongi)** ![Stars](https://img.shields.io/github/stars/gyunggyung/Open-Yaongi?style=social)
 - 🌟 **[AGI Papers](https://github.com/gyunggyung/AGI-Papers)** ![Stars](https://img.shields.io/github/stars/gyunggyung/AGI-Papers?style=social)
 - 🧠 **[Gemini-Claw](https://github.com/gyunggyung/Gemini-Claw)** ![Stars](https://img.shields.io/github/stars/gyunggyung/Gemini-Claw?style=social)
 - ⚡ **[Agent.cpp](https://github.com/gyunggyung/Agent.cpp)** ![Stars](https://img.shields.io/github/stars/gyunggyung/Agent.cpp?style=social)
