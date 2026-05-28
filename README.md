@@ -7,6 +7,8 @@
 ## 🚀 Recent & Featured
 > **LLM, AI Agent & Translation**
 
+- ♻️ **[KoHRM-text](https://github.com/LLM-OS-Models/KoHRM-text)** ![Stars](https://img.shields.io/github/stars/LLM-OS-Models/KoHRM-text?style=social)
+- 📟 **[Terminal](https://github.com/LLM-OS-Models/Terminal)** ![Stars](https://img.shields.io/github/stars/LLM-OS-Models/Terminal?style=social)
 - 💻 **[Liquid-CLI](https://github.com/gyunggyung/Liquid-CLI)** ![Stars](https://img.shields.io/github/stars/gyunggyung/Liquid-CLI?style=social)
 - 💉 **[Liquid-ASA](https://github.com/gyunggyung/Liquid-ASA)** ![Stars](https://img.shields.io/github/stars/gyunggyung/Liquid-ASA?style=social)
 - 🐱 **[Open-Yaongi](https://github.com/gyunggyung/Open-Yaongi)** ![Stars](https://img.shields.io/github/stars/gyunggyung/Open-Yaongi?style=social)
