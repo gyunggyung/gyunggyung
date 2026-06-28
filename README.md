@@ -7,6 +7,7 @@
 ## 🚀 Recent & Featured
 > **LLM, AI Agent & Translation**
 
+- 📖 **[LFM25-KO-SFT](https://github.com/gyunggyung/LFM25-KO-SFT)** ![Stars](https://img.shields.io/github/stars/gyunggyung/LFM25-KO-SFT?style=social)
 - 🔬 **[LFM25-KO-CPT](https://github.com/gyunggyung/LFM25-KO-CPT)** ![Stars](https://img.shields.io/github/stars/gyunggyung/LFM25-KO-CPT?style=social)
 - ♻️ **[KoHRM-text](https://github.com/LLM-OS-Models/KoHRM-text)** ![Stars](https://img.shields.io/github/stars/LLM-OS-Models/KoHRM-text?style=social)
 - 📟 **[Terminal](https://github.com/LLM-OS-Models/Terminal)** ![Stars](https://img.shields.io/github/stars/LLM-OS-Models/Terminal?style=social)
